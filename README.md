@@ -1,6 +1,6 @@
-### 👋 Hi there, thanks to read my profile! 
+# 👋 Hi there, thanks to read my profile! 
 
-🥸 **Who I am**  
+## 🥸 **Who I am**  
 I am a enthusiastic Data Scientist with an administrative and financial background. In my repositories you will find personal projects and tasks of my courses. Feel free to contribute! 
 
 🔝 **Why Data Scientist**  
@@ -21,7 +21,9 @@ Learn, learn and keep learning. There is always something new to improve
 Networking. Sharing and discussing ideas is always enjoyable and enriching. 
 
 ❗ **Summary**  
-In summary, I am a Jr. Data Scientist with plenty of enthusiasm and energy, eager to contribute to society for a better world and improved lifestyles. I am always open to improving my hard skills and continuously learning. I consider myself to be persevering, have critical thinking abilities, and possess problem-solving skills. _Don't hesitate to contact me._
+In summary, I am a Jr. Data Scientist with plenty of enthusiasm and energy, eager to contribute to society for a better world and improved lifestyles. I am always open to improving my hard skills and continuously learning. I consider myself to be persevering, have critical thinking abilities, and possess problem-solving skills. 
+
+🙏🏻 _Don't hesitate to contact me._
 <!--
 **borch008/borch008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
