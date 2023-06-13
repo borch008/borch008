@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Borja, thanks to read my profile!
+### 👋 Hi there, thanks to read my profile! 
 
 🥸 **Who I am**
 I am a enthusiastic Data Scientist with an administrative and financial background. In my repositories you will find personal projects and tasks of my courses. Feel free to contribute! 
