@@ -1,16 +1,15 @@
 # 👋 Hi there, welcome to my profile! 
 
 🥸 **Who I am**  
-I am a enthusiastic Data Scientist with an administrative and financial background.  
+I am an enthusiastic Data Scientist with an administrative and financial background.  
 In my repositories you will find personal projects and tasks of my courses. Feel free to contribute! 
 
 🔝 **Why Data Scientist**  
 Being able to predict the future is just as amazing as discovering patterns or finding the most influential features in our models.  
-The knowledge we can extract from data is limitless.  
-Let's work together to make a better a world.
+The knowledge we can extract from data is limitless. Let's work together to make a better a world.
 
 🤖 / 🌍 **Ethic**  
-It is in our hands, professionals and companies, to make an ethical use of data, as well as deciding what and how we want to teach AI. We are together in this. 
+It is in our hands to make an ethical use of data, as well as deciding what and how we want to teach AI. We are together in this. 
 
 🔜 **My next steps**  
 In this job there is always something new to learn.  
