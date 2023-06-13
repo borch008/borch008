@@ -1,6 +1,8 @@
 # 👋 Hi there, thanks to read my profile! 
 
-## 🥸 **Who I am**  
+
+
+<h3><u>🥸 **Who I am**</u></h3>
 I am a enthusiastic Data Scientist with an administrative and financial background. In my repositories you will find personal projects and tasks of my courses. Feel free to contribute! 
 
 🔝 **Why Data Scientist**  
