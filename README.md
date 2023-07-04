@@ -2,7 +2,7 @@
 
 🥸 **Who I am**  
 I am an enthusiastic Data Scientist with an administrative and financial background.  
-In my repositories you will find personal projects and tasks of my courses. Feel free to contribute! 
+In my repositories you will find personal projects, my own cheatsheets and tasks of my courses. Feel free to contribute! 
 
 🔝 **Why Data Scientist**  
 Being able to predict the future is just as amazing as discovering patterns or finding the most influential features in our models.  
