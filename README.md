@@ -1,4 +1,4 @@
-# 👋 Hi there, welcome to my profile! 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FCFDFF&random=false&width=435&lines=%23+%F0%9F%91%8B+Hi+there%2C+welcome+to+my+profile!+)](https://git.io/typing-svg)
 
 🥸 **Who I am**  
 I am an enthusiastic Data Scientist with an administrative and financial background.  
