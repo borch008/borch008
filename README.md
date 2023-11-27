@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=100&color=FCFDFF&random=false&width=600&height=100&lines=Hi+there%2C+welcome+to+my+profile!+)](https://git.io/typing-svg)
-
+#
 ![](https://komarev.com/ghpvc/?username=borch008&color=yellow)
 
-#
 
 🥸 **Who I am**  
 I am an enthusiastic Data Scientist with an administrative and financial background.  
