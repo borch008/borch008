@@ -22,13 +22,24 @@ Furthermore data, I enjoy spending my time in chess, sports, movies and series, 
 I am really interested in health, climate change (ODS), services and sports sectors. 
 
 🖖 **Looking for**  
-Learn, learn and keep learning. There is always something new to improve.  
+Learn and keep learning. There is always something new to improve.  
 Networking. Sharing and discussing ideas is always enjoyable and enriching. 
 
 ❗ **Summary**  
-In summary, I am a Jr. Data Scientist with plenty of enthusiasm and energy to be a valuable member of your company's team. I want to contribute to a better world and improved lifestyles. I am always open to improving my hard skills and continuously learning. I consider myself to be persevering, have critical thinking abilities, and possess problem-solving skills. 
-
+In summary, I am a Data Scientist with plenty of enthusiasm and energy to be a valuable member of your project. I want to contribute to a better world and improved lifestyles. I am always open to improving my hard skills and continuously learning. I consider myself to be persevering, have critical thinking abilities, and possess problem-solving skills. 
+<br>
+<br>
+<br>
+<br>
 🙏🏻 _Don't hesitate to contact me._
+| [![LinkedIn](https://skillicons.dev/icons?i=linkedin&bg=white&color=black)](https://www.linkedin.com/in/bgarmillo/?locale=en_US) | [![Discord](https://skillicons.dev/icons?i=discord&bg=white&color=black)](https://discordapp.com/users/bgarmillo) | [![Docker](https://skillicons.dev/icons?i=docker&bg=white&color=black)](https://hub.docker.com/u/borch008) |
+|---|---|---|
+
+
+
+
+
+
 <!--
 **borch008/borch008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
