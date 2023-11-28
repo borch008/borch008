@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FBFFF9&background=08080800&repeat=false&random=false&width=500&height=46&lines=%F0%9F%96%96+Hi+there%2C+welcome+to+my+profile)](https://git.io/typing-svg)
+![Header](discoverdatatogether.gif)
 
 ![](https://komarev.com/ghpvc/?username=borch008&color=yellow)
 
