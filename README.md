@@ -9,7 +9,8 @@ In my repositories you will find personal projects, my own cheatsheets and tasks
 
 🗣️**Idioms**  
 I speak, read and write in Catalan, Spanish and English as you can see in my repositories.  
-I try to use at least one of my native language (catalan or Spanish) and English in my READMEs. '''English to explain my code in the Jupyter notebooks'''
+I try to use at least one of my native language (Catalan or Spanish) and English in my READMEs.  
+'''English to explain my code in the Jupyter notebooks'''
 
 🔝 **Why Data Scientist**  
 Being able to predict the future is just as amazing as discovering patterns or finding the most influential features in our models.  
