@@ -7,7 +7,7 @@
 I am an enthusiastic Data Scientist with an administrative and financial background.  
 In my repositories you will find personal projects, my own cheatsheets and tasks of my courses. Feel free to contribute! 
 
-🗣️**Idioms**
+🗣️**Idioms**  
 I speak, read and write in Catalan, Spanish and English as you can see in my repositories.  
 I try to use at least one of my native language (catalan or Spanish) and English in my READMEs. '''English to explain my code in the Jupyter notebooks'''
 
