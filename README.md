@@ -3,9 +3,10 @@
 
 ![](https://komarev.com/ghpvc/?username=borch008&color=yellow)
 
-🐧 **Who I am**  
-I am an enthusiastic Data Scientist with an administrative and financial background. 
-In my repositories you will find personal projects, my own cheatsheets and tasks of my courses. Take a look to discover how I work and feel free to contribute! 
+🐼 **Who I am**  
+I am an enthusiastic Data Scientist with a professional background in several areas. who believes in the power of people and society to drive positive change and improve the world. 
+In my repositories you will find personal projects, my own cheatsheets and course assigments. Take a look to discover how I work and feel free to contribute!
+You can discover more about me in [my website](https://databo.es).
 
 🗣️**Idioms**  
 I speak, read and write in Catalan, Spanish and English as you can see in my repositories.  
@@ -13,31 +14,35 @@ I try to use at least one of my native language (Catalan or Spanish) and English
 '''English to explain my code in the Jupyter notebooks'''
 
 👨🏻‍💻 **Why Data Scientist**  
-Being able to predict the future is just as amazing as discovering patterns or finding the most influential features in our models.  
-The knowledge we can extract from data is limitless. Let's work together to make a better a world.
+As a Data Scientist, I have the opportunity to participate in different projects and contribute to improving people’s quality of life. By combining the knowledge of the project team with my analytical and statistical skills, plus my external perspective, we can take the project to the next level and create progress.
+The knowledge we can extract from data is limitless. Let's work together to contribute to a healthier a world.
 
-🤖 / 🌍 **Ethic**  
+🤖 / 🌍 **Ethics**  
 It is in our hands to make an ethical use of data, as well as deciding what and how we want to teach AI. We are together in this. 
 
 🔄 **My next steps**  
-In this job there is always something new to learn.  
-I would like to improve my knowledge about Deep Learning, Neural Networks and Big Data.
+In this field, there is always something new to learn.  
+I want to deepen my knowledge in Deep Learning, Neural Networks, Big Data, Cloud Computing, Blockchain, Cybersecurity... There’s so much to explore, and I enjoy learning by doing and keeping my mind active.
+
+
 
 🔥 **Interests**  
-Furthermore data, I enjoy spending my time in chess, sports, movies and series, psychology, nature, videogames, cooking, a good book...  
-I am really interested in health, climate change (ODS) and services. 
-
+I am interested in everything that will continue enriching me both personally and professionally. In particular, I would love to explore more in neuroscience, sustainability, entrepreneurial projects, and health (physical and mental), and collaborate on projects in these areas, which I believe are essential for continuing to progress as a society.
 🤝🏻 **Looking for**   
-Networking. Sharing and discussing ideas is always enjoyable and enrich our knowledge, providing new perspectives. 
+My goal is to make data science more accessible to people by simplifying the technicalities that are difficult to understand (as they were for me before i started studying this profession).
+I also believe that the best way to improve and progress is to keep an open mind and foster networking. Sharing and discussing ideas is always enjoyable and enriches our knowledge, providing new perspectives. 
 
 ❗ **Summary**  
-In summary, I am a Data Scientist with plenty of enthusiasm and energy to be a valuable member of your project. I want to contribute to a better world and improved lifestyles. I am always open to improving my hard skills and continuously learning. I consider myself to be persevering, have critical thinking abilities, and possess problem-solving skills. Curiosity and creativity is a must in this profesión.
+In summary, I am a Data Scientist with plenty of enthusiasm and energy , ready to be a valuable member of your projects. I want to contribute to a better world and improved lifestyles. I am always open to enhancing my skills and continuously learning. I consider myself to be persevering, with strong critical thinking abilities and problem-solving skills. Curiosity and creativity is a must in this profesión.
+Let’s make progress!
+
 <br>
 <br>
 <br>
 🙏🏻 _Don't hesitate to contact me._
-| [![LinkedIn](https://skillicons.dev/icons?i=linkedin&bg=white&color=black)](https://www.linkedin.com/in/bgarmillo/?locale=en_US) | [![Discord](https://skillicons.dev/icons?i=discord&bg=white&color=black)](https://discordapp.com/users/bgarmillo) | [![Docker](https://skillicons.dev/icons?i=docker&bg=white&color=black)](https://hub.docker.com/u/borch008) |
-|---|---|---|
+| [![Favicon](https://databo.es/favicon.ico)](https://databo.es) | [![LinkedIn](https://skillicons.dev/icons?i=linkedin&bg=white&color=black)](https://www.linkedin.com/in/bgarmillo/?locale=en_US) | [![Discord](https://skillicons.dev/icons?i=discord&bg=white&color=black)](https://discordapp.com/users/bgarmillo) | [![Docker](https://skillicons.dev/icons?i=docker&bg=white&color=black)](https://hub.docker.com/u/borch008) |
+|---|---|---|---|
+
 
 
 
