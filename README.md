@@ -40,8 +40,8 @@ Let’s make progress!
 <br>
 <br>
 🙏🏻 _Don't hesitate to contact me._
-| [![Favicon](https://databo.es/favicon.ico)](https://databo.es) | [![LinkedIn](https://skillicons.dev/icons?i=linkedin&bg=white&color=black)](https://www.linkedin.com/in/bgarmillo/?locale=en_US) | [![Discord](https://skillicons.dev/icons?i=discord&bg=white&color=black)](https://discordapp.com/users/bgarmillo) | [![Docker](https://skillicons.dev/icons?i=docker&bg=white&color=black)](https://hub.docker.com/u/borch008) |
-|---|---|---|---|
+| [![LinkedIn](https://skillicons.dev/icons?i=linkedin&bg=white&color=black)](https://www.linkedin.com/in/bgarmillo/?locale=en_US) | [![Discord](https://skillicons.dev/icons?i=discord&bg=white&color=black)](https://discordapp.com/users/bgarmillo) | [![Docker](https://skillicons.dev/icons?i=docker&bg=white&color=black)](https://hub.docker.com/u/borch008) |
+|---|---|---|
 
 
 
